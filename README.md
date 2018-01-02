@@ -5,3 +5,4 @@ I will be working with a fake advertising data set, indicating whether or not a 
 Data Source and guidence credits: Python for Data Science and Machine Learning Udemy Course.
 
 I will be visualizing the data first and then applying logistic regression to train the model and reach a conclusion.
+Caution: *** The Data is Fake***
